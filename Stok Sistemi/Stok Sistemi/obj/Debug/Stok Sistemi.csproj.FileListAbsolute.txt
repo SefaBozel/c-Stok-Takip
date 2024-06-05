@@ -1,0 +1,26 @@
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\bin\Debug\Stok Sistemi.exe.config
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\bin\Debug\Stok Sistemi.exe
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\bin\Debug\Stok Sistemi.pdb
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.csproj.AssemblyReference.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.Kayıt_Ol.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.Properties.Resources.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.csproj.GenerateResource.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.exe
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.pdb
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.Giris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.AnaSayfa.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.StokGiris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.StokSilme.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.StokGuncelleme.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.YöneticiSayfası.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.PersonelListesi.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.csproj.CopyComplete
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.MusteriSayfasi.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.GecmisSiparisler.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.YGecmisSiparis.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.GeriBildirim.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.YGeriBildirim.resources
